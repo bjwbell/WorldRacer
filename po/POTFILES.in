@@ -1,0 +1,34 @@
+# List of source files containing translatable strings.
+
+## Created by Anjuta - will be overwritten
+## If you don't want it to overwrite it,
+## 	Please disable it in the Anjuta project configuration
+
+# Source files
+src/Camera.cpp
+src/Functions.cpp
+src/Game_Class.cc
+src/Light.cpp
+src/MD3Functions.cpp
+src/Md3.cpp
+src/Object_Loader.cpp
+src/Quad_Object.cpp
+src/Terrain.cpp
+src/Texture.cpp
+src/main.cc
+src/tga.c
+src/player.cpp
+src/path.cc
+src/HUD.cpp
+src/Speed_Display.cc
+src/display_text.cpp
+src/Track_Marker.cpp
+src/track_selection.cpp
+src/World.cpp
+src/Bush.cpp
+src/Bushes.cpp
+src/terrain_object.cpp
+src/terrain_objects.cpp
+src/terrain_reflection_map.cpp
+
+

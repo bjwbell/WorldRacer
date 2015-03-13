@@ -1,0 +1,166 @@
+# Anjuta Version 1.0.0 
+Compatibility Level: 1 
+
+<PROJECT_DESCRIPTION_START>
+Pod Racer Clone Game.<PROJECT_DESCRIPTION_END>
+<CONFIG_PROGS_START>
+<CONFIG_PROGS_END>
+<CONFIG_LIBS_START>
+<CONFIG_LIBS_END>
+<CONFIG_HEADERS_START>
+<CONFIG_HEADERS_END>
+<CONFIG_CHARACTERISTICS_START>
+<CONFIG_CHARACTERISTICS_END>
+<CONFIG_LIB_FUNCS_START>
+<CONFIG_LIB_FUNCS_END>
+<CONFIG_ADDITIONAL_START>
+<CONFIG_ADDITIONAL_END>
+<CONFIG_FILES_START>
+<CONFIG_FILES_END>
+<MAKEFILE_AM_START>
+<MAKEFILE_AM_END>
+
+props.file.type=project
+
+anjuta.version=1.0.0
+anjuta.compatibility.level=1
+
+project.name=Pod_Racer_Clone
+project.type=GENERIC
+project.target.type=EXECUTABLE
+project.version=0.1
+project.author=bjwbell
+project.source.target=pod_racer_clone
+
+project.excluded.modules=
+
+project.has.gettext=1
+
+project.programming.language=C_C++
+
+project.menu.entry=Pod_Racer_Clone Version 0.1
+project.menu.group=Applications
+project.menu.comment=Pod_Racer_Clone Version 0.1
+project.menu.icon=
+project.menu.need.terminal=0
+
+project.configure.options=
+
+anjuta.program.arguments=
+
+project.config.blocked=0
+
+project.config.disable.overwriting=0 0 0 0 0 0 0 0 0 
+project.config.extra.modules.before=
+project.config.extra.modules.after=
+
+module.include.name=include
+module.include.type=
+module.include.expanded=1
+module.include.files=\
+	Camera.h\
+	Functions.h\
+	Game_Class.h\
+	Light.h\
+	MD3Functions.h\
+	Md3.h\
+	Object_Loader.h\
+	Quad_Object.h\
+	Terrain.h\
+	Texture.h\
+	main.h\
+	tga.h\
+	player.h\
+	path.h\
+	HUD.h\
+	Speed_Display.h\
+	display_text.h\
+	Track_Marker.h\
+	track_selection.h\
+	World.h\
+	Bush.h\
+	Bushes.h\
+	terrain_object.h\
+	terrain_objects.h\
+	terrain_reflection_map.h
+
+module.source.name=src
+module.source.type=
+module.source.expanded=1
+module.source.files=\
+	Camera.cpp\
+	Functions.cpp\
+	Game_Class.cc\
+	Light.cpp\
+	MD3Functions.cpp\
+	Md3.cpp\
+	Object_Loader.cpp\
+	Quad_Object.cpp\
+	Terrain.cpp\
+	Texture.cpp\
+	main.cc\
+	tga.c\
+	player.cpp\
+	path.cc\
+	HUD.cpp\
+	Speed_Display.cc\
+	display_text.cpp\
+	Track_Marker.cpp\
+	track_selection.cpp\
+	World.cpp\
+	Bush.cpp\
+	Bushes.cpp\
+	terrain_object.cpp\
+	terrain_objects.cpp\
+	terrain_reflection_map.cpp
+
+module.pixmap.name=pixmaps
+module.pixmap.type=
+module.pixmap.expanded=0
+module.pixmap.files=
+
+module.data.name=data
+module.data.type=
+module.data.expanded=0
+module.data.files=
+
+module.help.name=help
+module.help.type=
+module.help.expanded=0
+module.help.files=
+
+module.doc.name=doc
+module.doc.type=
+module.doc.expanded=0
+module.doc.files=
+
+module.po.expanded=0
+module.po.files=
+
+compiler.options.supports=
+
+compiler.options.include.paths=
+
+compiler.options.library.paths=
+
+compiler.options.libraries=\
+	GL\
+	GLU
+compiler.options.libraries.selected=1 1 
+
+compiler.options.defines=
+
+compiler.options.warning.buttons=0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 
+
+compiler.options.optimize.buttons=0 1 0 0 
+
+compiler.options.other.buttons=1 0 
+
+compiler.options.other.c.flags=`sdl-config --cflags --libs`
+
+compiler.options.other.l.flags=
+
+compiler.options.other.l.libs=
+
+project.source.paths=
+

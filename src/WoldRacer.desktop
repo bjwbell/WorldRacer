@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=%{Summary}
+Comment[en_US]=%{Summary}
+Exec='/home/bjwbell/Projects/Pod_Racer_Clone-0.1/src/start_WorldRacer.sh'
+Icon=penguin
+MimeType=
+Name=WorldRacer
+Name[en_US]=WorldRacer
+ServiceTypes=
+SwallowExec=
+SwallowTitle=
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
